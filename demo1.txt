@@ -10,7 +10,9 @@ public class Demo01{
 		System.out.println("heheda");
 	}
 	
-	public void hehheda2(){}
+	public void hehheda2(){
+		System.out.println("!!!!!!")
+	}
 
 	public void hheheda3(){}
 
