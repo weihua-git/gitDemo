@@ -9,6 +9,8 @@ public class Demo01{
 	public void heheda(){
 		System.out.println("heheda");
 	}
+	
+	public void hehheda2(){}
 
 
 
