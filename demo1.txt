@@ -8,6 +8,8 @@ public class Demo01{
 	public void heheda(){
 		
 	}
+	
+	public void hehheda2(){}
 
 
 
