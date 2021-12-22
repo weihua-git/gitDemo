@@ -12,6 +12,8 @@ public class Demo01{
 	
 	public void hehheda2(){}
 
+	public void hheheda3(){}
+
 
 
 }
