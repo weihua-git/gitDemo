@@ -1,12 +1,13 @@
 public class Demo01{
 	public static void main(String[] args){ 
 		String a = "HelloWolrd";
+		heheda();
 		System.out.println("HelloWlrd"+a);
 	}
 
 
 	public void heheda(){
-		
+		System.out.println("heheda");
 	}
 
 
